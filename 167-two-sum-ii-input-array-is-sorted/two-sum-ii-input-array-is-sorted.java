@@ -3,7 +3,7 @@ class Solution {
           int left =0 ;
            int right = numbers.length-1;
 
-           ArrayList<Integer> arr = new ArrayList<>();
+        //    ArrayList<Integer> arr = new ArrayList<>();
              int[] res = new int [2];
 
            while (left < right){
