@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SDibyani/DSA/tree/master/0125-valid-palindrome) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SDibyani/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Segment Tree
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SDibyani/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/SDibyani/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
