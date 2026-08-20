@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SDibyani/DSA/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/SDibyani/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/SDibyani/DSA/tree/master/1563-stone-game-v) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SDibyani/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
