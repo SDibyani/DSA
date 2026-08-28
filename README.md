@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SDibyani/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1386-cinema-seat-allocation](https://github.com/SDibyani/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/SDibyani/DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/SDibyani/DSA/tree/master/1872-stone-game-viii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SDibyani/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/SDibyani/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SDibyani/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SDibyani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SDibyani/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SDibyani/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SDibyani/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -141,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SDibyani/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1872-stone-game-viii](https://github.com/SDibyani/DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
