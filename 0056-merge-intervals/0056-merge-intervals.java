@@ -4,11 +4,11 @@ class Solution {
         int n = intervals.length ;
         int [][] res = new int[n][2];
         res[0] = intervals[0];
-        int e=0;
-
+        int e=0;         // e= [1,3]   i=[2,6]
+ 
         for(int i=1; i<n ; i++){
-            if(intervals[i][0] <= res[e][1]){
-                res[e][1] = Math.max(res[e][1], intervals[i][1]);
+            if(intervals[i][0] <= res[e][1]){   //2<=3
+                res[e][1] = Math.max(res[e][1], intervals[i][1]);    // max(3,6)
             } else {
                 e++;
                 res[e]= intervals[i];
