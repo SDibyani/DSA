@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SDibyani/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0115-distinct-subsequences](https://github.com/SDibyani/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SDibyani/DSA/tree/master/0125-valid-palindrome) |
 | [1927-sum-game](https://github.com/SDibyani/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SDibyani/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/SDibyani/DSA/tree/master/0115-distinct-subsequences) |
 | [1563-stone-game-v](https://github.com/SDibyani/DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/SDibyani/DSA/tree/master/1872-stone-game-viii) |
 ## Linked List
