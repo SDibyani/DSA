@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/SDibyani/DSA/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/SDibyani/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/SDibyani/DSA/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/SDibyani/DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/SDibyani/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/SDibyani/DSA/tree/master/1927-sum-game) |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SDibyani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SDibyani/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
