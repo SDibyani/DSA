@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SDibyani/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/SDibyani/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/SDibyani/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SDibyani/DSA/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/SDibyani/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SDibyani/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/SDibyani/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/SDibyani/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/SDibyani/DSA/tree/master/1563-stone-game-v) |
@@ -256,5 +258,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SDibyani/DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SDibyani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SDibyani/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
