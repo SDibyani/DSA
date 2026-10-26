@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SDibyani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SDibyani/DSA/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/SDibyani/DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/SDibyani/DSA/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/SDibyani/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/SDibyani/DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SDibyani/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -33,7 +34,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/SDibyani/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SDibyani/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SDibyani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
-| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SDibyani/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SDibyani/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SDibyani/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SDibyani/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -256,21 +256,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/SDibyani/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SDibyani/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SDibyani/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
-| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SDibyani/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/SDibyani/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/SDibyani/DSA/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SDibyani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
-| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SDibyani/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/SDibyani/DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/SDibyani/DSA/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SDibyani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
-| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SDibyani/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -287,8 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/SDibyani/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SDibyani/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SDibyani/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
