@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SDibyani/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SDibyani/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SDibyani/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/SDibyani/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SDibyani/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SDibyani/DSA/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/SDibyani/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SDibyani/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SDibyani/DSA/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/SDibyani/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/SDibyani/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SDibyani/DSA/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/SDibyani/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SDibyani/DSA/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/SDibyani/DSA/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/SDibyani/DSA/tree/master/0678-valid-parenthesis-string) |
