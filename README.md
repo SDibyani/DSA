@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SDibyani/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SDibyani/DSA/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/SDibyani/DSA/tree/master/0134-gas-station) |
+| [0198-house-robber](https://github.com/SDibyani/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/SDibyani/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/SDibyani/DSA/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SDibyani/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SDibyani/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SDibyani/DSA/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/SDibyani/DSA/tree/master/0115-distinct-subsequences) |
+| [0198-house-robber](https://github.com/SDibyani/DSA/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/SDibyani/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/SDibyani/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SDibyani/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
